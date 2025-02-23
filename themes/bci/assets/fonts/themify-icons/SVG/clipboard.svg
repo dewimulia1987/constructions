@@ -4,5 +4,5 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
 <g>
 </g>
-	<path d="M14 2v-2h-13v17h13v-2h2v-13h-2zM2 16v-15h2v15h-2zM13 16h-8v-15h8v15zM15 14h-1v-3h1v3zM15 10h-1v-3h1v3zM14 6v-3h1v3h-1zM6 4h5v1h-5v-1zM6 6h4v1h-4v-1z" fill="#000000" />
+	<path d="M16 2v15h-15v-15h2.244v1h-1.244v13h13v-13h-1.278v-1h2.278zM13 5h-9v-4h3.085c0.207-0.582 0.763-1 1.415-1s1.208 0.418 1.415 1h3.085v4zM12 2h-3v-0.5c0-0.276-0.224-0.5-0.5-0.5s-0.5 0.224-0.5 0.5v0.5h-3v2h7v-2z" fill="#000000" />
 </svg>
